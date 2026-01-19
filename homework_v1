@@ -1,3 +1,0 @@
-start_work_time = int()
-end_work_time = int()
-time_of_work = end_work - start_time
